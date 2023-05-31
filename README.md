@@ -8,3 +8,6 @@ descomente o Home.sync() para criar a tabela, depois descomente, só precisará 
 
 e para rodar o front basta rodar no terminal do diretorio Site_React_Next o comando
 ### npm run dev
+
+# Front-end @ALeJosino
+# Back-end @ivan9rx
